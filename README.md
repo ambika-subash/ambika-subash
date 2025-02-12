@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ambika-subash
 - 👀 I’m interested in econ, tech, music & buying books I'll never read.
-- 🌱 I’m currently learning slide guitar, coding, & how to survive Delhi summers.
-- 💞️ I’m looking to collaborate on questions of agriculture, technology and innovation in the Global South.
+- 🌱 I’m currently gearing up for the great Indian summer where I will be traveling and conducting field surveys.
+- 💞️ I’m looking to collaborate on questions of agriculture, technology, and innovation in the Global South.
 - 📫 How to reach me: ambika2908@gmail.com
 
 <!---
